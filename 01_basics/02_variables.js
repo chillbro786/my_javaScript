@@ -22,7 +22,7 @@ let state ;// undifined
 
 
 
-// object 
+// object @@
 
 console.log(typeof "pratham")
 console.log(typeof 1)
