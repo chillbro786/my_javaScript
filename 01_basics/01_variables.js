@@ -6,7 +6,7 @@ accountCity = "kharar";
 
  let accountState ;
 
-// changing variables and see the changes ;
+// changing variables and see the changes@@ ;
 
     //  accountId= 94500;   can't be changed 
      accountEmail = "Raman@3226@gmail.com";
